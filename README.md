@@ -1,9 +1,9 @@
 # Biblioteca javaScript para verificar links em arquivos .md
 
 ## Índice
-- <a href="funcionalidades">Funcionalidades da biblioteca</a>
-- <a href="tecnologia">Tecnologia</a>
-- <a href="rodar">Como rodar a biblioteca?</a>
+- <a href="#funcionalidades">Funcionalidades da biblioteca</a>
+- <a href="#tecnologia">Tecnologia</a>
+- <a href="#rodar">Como rodar a biblioteca?</a>
 
 ## Funcionalidades da Biblioteca
 - [x] Acessa arquivos em um diretório 
